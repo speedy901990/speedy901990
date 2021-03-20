@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @speedy901990
+- 👋 Hi, I’m Tom
 - 👀 I’m interested in coffee and programming
 - 🌱 I’m currently learning JS and Dart
 - 💞️ I’m looking to collaborate on mobile apps
