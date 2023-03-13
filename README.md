@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom
 - 👀 I’m interested in coffee and programming
-- 🌱 I’m currently learning JS and Dart
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on mobile apps
 - 📫 How to reach me: mychaty@gmail.com
 
