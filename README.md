@@ -2,7 +2,7 @@
 - 👀 I’m interested in coffee and programming
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on mobile apps
-- 📫 How to reach me: mychaty@gmail.com
+- 📫 How to reach me: http://tomsoft.dev
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C81AX14E)
 
