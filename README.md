@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Tom
-- 👀 I’m interested in coffee and programming
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on mobile apps
-- 📫 How to reach me: http://tomsoft.dev
+- I'm a programmer
+- Speciality Coffee Enthusiast
+- How to reach me: http://tomsoft.dev
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C81AX14E)
 
