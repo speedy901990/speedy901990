@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom
+- Hi, I’m Tom
 - I'm a programmer
 - Speciality Coffee Enthusiast
 - How to reach me: http://tomsoft.dev
